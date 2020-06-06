@@ -1,4 +1,4 @@
 torch
 torchvision
 opencv-python
-face_alignment
+facenet_pytorch
